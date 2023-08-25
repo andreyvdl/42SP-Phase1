@@ -2,10 +2,6 @@
 	<h1>
 		Phase 1 projects
 	</h1>
-	<br>
-	<p style=color:lightgreen>
-		Click on the images to go to the project repo.
-	</p>
 </div>
 <br>
 
