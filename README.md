@@ -19,7 +19,7 @@
 		<img src="./images/born2berootm.png" alt="já da pra formatar o pc" >
 	</a>
 	<a href="https://github.com/andreyvdl/42-fract-ol" target="_blank">
-		<img src="./images/fract-oln.png" alt="funny colors go brrrrrrrrrrrr" >
+		<img src="./images/fract-olm.png" alt="funny colors go brrrrrrrrrrrr" >
 	</a>
 	<a href="https://github.com/andreyvdl/42-FdF" target="_blank">
 		<img src="./images/fdfn.png" alt="Eu não sei matemática básica" >
